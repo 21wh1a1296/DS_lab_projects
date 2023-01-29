@@ -65,7 +65,7 @@ void show()
 	}
 	else
 	{
-		for(i=0;i<SIZE;i++)
+		for(i=0;i<=top;i++)
 		{
 			printf("%d ",a[i]);
 		}
